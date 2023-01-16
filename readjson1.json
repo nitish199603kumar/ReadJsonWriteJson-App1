@@ -1,0 +1,17 @@
+{
+  "name": "Nitish",
+  "address": {
+    "phone": "9708040890",
+    "skyResHeader" : {
+      "svrId": "",
+      "reqRefNo": "332192746689316",
+      "skyRefNo": "1668676143514",
+      "procStatus": "",
+      "errCode": "00",
+      "errMsgSys": "Successfull",
+      "errMsgUsr": ""
+    }
+  },
+ "booking_details": "{\"reservationId\":\"100003822781535\",\"pnr\":\"4440643791\",\"trainName\":\"KAVERI EXPRESS\",\"total_fare\":145,\"trainNo\":\"16021\"}"
+  
+}
